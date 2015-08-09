@@ -1,0 +1,6 @@
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\SortedSet_and_IComparable\bin\Debug\SortedSet_and_IComparable.exe.config
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\SortedSet_and_IComparable\bin\Debug\SortedSet_and_IComparable.exe
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\SortedSet_and_IComparable\bin\Debug\SortedSet_and_IComparable.pdb
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\SortedSet_and_IComparable\obj\Debug\SortedSet_and_IComparable.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\SortedSet_and_IComparable\obj\Debug\SortedSet_and_IComparable.exe
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\SortedSet_and_IComparable\obj\Debug\SortedSet_and_IComparable.pdb

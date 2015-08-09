@@ -1,0 +1,6 @@
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\Queue_Demo\bin\Debug\Queue_Demo.exe.config
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\Queue_Demo\bin\Debug\Queue_Demo.exe
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\Queue_Demo\bin\Debug\Queue_Demo.pdb
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\Queue_Demo\obj\Debug\Queue_Demo.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\Queue_Demo\obj\Debug\Queue_Demo.exe
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\Queue_Demo\obj\Debug\Queue_Demo.pdb

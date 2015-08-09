@@ -1,0 +1,5 @@
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\Stack_Demo\bin\Debug\Stack_Demo.exe.config
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\Stack_Demo\bin\Debug\Stack_Demo.exe
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\Stack_Demo\bin\Debug\Stack_Demo.pdb
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\Stack_Demo\obj\Debug\Stack_Demo.exe
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\Stack_Demo\obj\Debug\Stack_Demo.pdb

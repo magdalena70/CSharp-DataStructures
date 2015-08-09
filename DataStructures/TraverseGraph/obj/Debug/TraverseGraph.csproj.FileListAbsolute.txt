@@ -1,0 +1,6 @@
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\TraverseGraph\bin\Debug\TraverseGraph.exe.config
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\TraverseGraph\bin\Debug\TraverseGraph.exe
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\TraverseGraph\bin\Debug\TraverseGraph.pdb
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\TraverseGraph\obj\Debug\TraverseGraph.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\TraverseGraph\obj\Debug\TraverseGraph.exe
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\TraverseGraph\obj\Debug\TraverseGraph.pdb

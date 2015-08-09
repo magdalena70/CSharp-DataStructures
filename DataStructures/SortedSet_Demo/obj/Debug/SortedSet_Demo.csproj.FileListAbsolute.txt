@@ -1,0 +1,6 @@
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\SortedSet_Demo\bin\Debug\SortedSet_Demo.exe.config
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\SortedSet_Demo\bin\Debug\SortedSet_Demo.exe
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\SortedSet_Demo\bin\Debug\SortedSet_Demo.pdb
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\SortedSet_Demo\obj\Debug\SortedSet_Demo.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\SortedSet_Demo\obj\Debug\SortedSet_Demo.exe
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\SortedSet_Demo\obj\Debug\SortedSet_Demo.pdb

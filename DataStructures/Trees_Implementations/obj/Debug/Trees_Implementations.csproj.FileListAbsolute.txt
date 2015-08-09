@@ -1,0 +1,6 @@
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\Trees_Implementations\bin\Debug\Trees_Implementations.exe.config
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\Trees_Implementations\bin\Debug\Trees_Implementations.exe
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\Trees_Implementations\bin\Debug\Trees_Implementations.pdb
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\Trees_Implementations\obj\Debug\Trees_Implementations.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\Trees_Implementations\obj\Debug\Trees_Implementations.exe
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\DataStructures\Trees_Implementations\obj\Debug\Trees_Implementations.pdb

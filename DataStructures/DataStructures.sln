@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trees_Implementations", "Trees_Implementations\Trees_Implementations.csproj", "{8B0637D0-86C3-4D8A-8F4A-4C0456F202D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedSet_Demo", "SortedSet_Demo\SortedSet_Demo.csproj", "{12CCA246-6D0C-4660-901C-C2FE0ED068C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedSet_and_IComparable", "SortedSet_and_IComparable\SortedSet_and_IComparable.csproj", "{984CB289-4DA4-452E-A7FC-1BD22B026D0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue_Demo", "Queue_Demo\Queue_Demo.csproj", "{E6F32B64-C53A-4443-8F24-DB0F03C19A95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack_Demo", "Stack_Demo\Stack_Demo.csproj", "{7C393BFB-EF0A-4037-A963-295CB25059FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph_Demo", "Graph_Demo\Graph_Demo.csproj", "{F9444FC0-63E8-4DEE-A4C8-4A4773799301}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraverseGraph", "TraverseGraph\TraverseGraph.csproj", "{2E3F0F1B-4FB5-4503-8F0A-59DAB9B9F019}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B0637D0-86C3-4D8A-8F4A-4C0456F202D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B0637D0-86C3-4D8A-8F4A-4C0456F202D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B0637D0-86C3-4D8A-8F4A-4C0456F202D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B0637D0-86C3-4D8A-8F4A-4C0456F202D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12CCA246-6D0C-4660-901C-C2FE0ED068C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12CCA246-6D0C-4660-901C-C2FE0ED068C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12CCA246-6D0C-4660-901C-C2FE0ED068C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12CCA246-6D0C-4660-901C-C2FE0ED068C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{984CB289-4DA4-452E-A7FC-1BD22B026D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{984CB289-4DA4-452E-A7FC-1BD22B026D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{984CB289-4DA4-452E-A7FC-1BD22B026D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{984CB289-4DA4-452E-A7FC-1BD22B026D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6F32B64-C53A-4443-8F24-DB0F03C19A95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6F32B64-C53A-4443-8F24-DB0F03C19A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6F32B64-C53A-4443-8F24-DB0F03C19A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6F32B64-C53A-4443-8F24-DB0F03C19A95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C393BFB-EF0A-4037-A963-295CB25059FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C393BFB-EF0A-4037-A963-295CB25059FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C393BFB-EF0A-4037-A963-295CB25059FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C393BFB-EF0A-4037-A963-295CB25059FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9444FC0-63E8-4DEE-A4C8-4A4773799301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9444FC0-63E8-4DEE-A4C8-4A4773799301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9444FC0-63E8-4DEE-A4C8-4A4773799301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9444FC0-63E8-4DEE-A4C8-4A4773799301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E3F0F1B-4FB5-4503-8F0A-59DAB9B9F019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E3F0F1B-4FB5-4503-8F0A-59DAB9B9F019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E3F0F1B-4FB5-4503-8F0A-59DAB9B9F019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E3F0F1B-4FB5-4503-8F0A-59DAB9B9F019}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
